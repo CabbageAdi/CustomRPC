@@ -6,6 +6,8 @@ Basically lets you do this
 Uses https://github.com/Lachee/discord-rpc-csharp and winforms.
 
 # How to use
+Install the latest release from the releases tab, unzip it and double click "CustomRPC.exe".
+
 To get an application id:
 * Go to https://discord.com/developers/applications.
 * Create a new application.
