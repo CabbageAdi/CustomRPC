@@ -1,7 +1,7 @@
 # CustomRPC
 Basically lets you do this
 
-![image](https://imgur.com/a/5rg8EAG)
+![image](https://i.imgur.com/7RGOxiE.png)
 
 Uses https://github.com/Lachee/discord-rpc-csharp and winforms.
 
